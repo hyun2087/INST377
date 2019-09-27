@@ -1,0 +1,39 @@
+#top {
+    background-color: black;
+    text-align: center;
+    width: 60%;
+    margin: auto;
+}
+
+h1 {
+    color: white;
+    font-style: italic;
+}
+
+.entries {
+    float: left;
+    width: 33.3333%;
+    border: 5px;
+    border-style: hidden;
+    color: blue;
+    font-style: italic;
+    font-size: 23px;
+}
+
+#me {
+   height: 500px; 
+}
+
+#picture {
+    text-align: center;
+}
+
+body {
+    background-color: white;
+}
+
+p {
+    font-style: oblique;
+    color: black; 
+    font-size: 23px;
+}
